@@ -14,7 +14,7 @@ membuat list
 a=[] 
 ```
 berikut program yang saya buat:
-![Gambar 1](ss/ss1.png)
+![Gambar 1](ss/ss3.png)
 ### Akses list
 kodenya :
 ```python
@@ -87,7 +87,7 @@ print("Gabungan list Genap dan Ganjil:", Angka)
 
 Berikut hasil programnya:
 
-![Gambar 2](ss/ss2.png)
+![Gambar 2](ss/ss4.png)
 
 
 # Tugas Praktikum 
@@ -100,7 +100,7 @@ Berikut hasil programnya:
 
 - berikut gambar pemrograman yang telah saya buat:
 
-![Gambar 4](ss/ss3.png)
+![Gambar 4](ss/ss1.png)
 
 - untuk mendefinisikan index gunakan kode berikut:
 ```python
@@ -159,6 +159,6 @@ for n in range(i):
 ```
 - untuk menampilkan hasil data yang telah diinput dan dihitung rata-ratanya bida gunakan perintah for n in range seperti program di atas.
 - berikut saya tampilkan hasil dari program menginput nilai mahasiswa
-![Gambar 5](ss/ss4.png)
+![Gambar 5](ss/ss2.png)
 
 ## Sekiian dan terima kasih (gomawo :)
